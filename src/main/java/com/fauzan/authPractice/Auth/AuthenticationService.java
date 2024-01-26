@@ -10,7 +10,7 @@ import com.fauzan.authPractice.config.JwtService;
 import com.fauzan.authPractice.model.Role;
 import com.fauzan.authPractice.model.User;
 
-import Repo.UserRepo;
+import com.fauzan.authPractice.Repo.UserRepo;
 import lombok.RequiredArgsConstructor;
 
 @Service

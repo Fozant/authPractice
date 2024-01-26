@@ -1,4 +1,4 @@
-package Repo;
+package com.fauzan.authPractice.Repo;
 
 import java.util.Optional;
 
